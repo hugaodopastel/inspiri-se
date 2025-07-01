@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Inspire-se</title>
+</head>
+
+<body>
+  <header>
+    <h1 id="topo">__$ Hugo $__</h1>
+    <p>__$ Uma frase inspiradora. $__</p>
+  </header>
+  <main>
+    <section>
+      <img src="img/feat1.jpg" alt="Primeiro">
+      <h2>__$ Destaque 1 $__</h2>
+      <p>__$ Texto com um link para o destaque $__ <a href="#" target="_blank"> __$ texto do link $__</a>.  </p>
+    </section>
+    <section>
+      <img src="img/feat2.jpg" alt="Segundo">
+      <h2>__$ Destaque 2 $__</h2>
+      <p>__$ Texto com um link para o destaque $__ <a href="#" target="_blank"> __$ texto do link $__</a>.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 __$ Hugo $__</p>
+  </footer>
+</body>
+
+</html>
